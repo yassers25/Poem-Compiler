@@ -1,6 +1,6 @@
 # Classical Arabic Poem Verifier and Translator
 
-##📌 Overview
+## 📌 Overview
 This project involves the development of a mini-verifier and translator for classical Arabic poems. The application allows users to verify the accuracy of a poem passage they input, receive a precision score, and get suggestions for corrections if needed. Additionally, there is a poem library where users can discover poems by genre and learn more about the authors.
 
 ## 🛠 Features
